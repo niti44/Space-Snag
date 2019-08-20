@@ -1,1 +1,2 @@
 # Space-Snag
+. Space Snag  is fun based game. As the name suggests, a shuttle in space has many unexpected obstacles coming its way. To reach the destination, the shuttle has to get through all those hurdles. It is a single user game that consist of moving platform with a space shuttle that is to be fit in the constant passage provided at the top by pressing the up arrow key. If the user is able to get the space shuttle  through the passage, score will be increased else game will terminate after an unsuccessful attempt
